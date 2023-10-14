@@ -24,23 +24,21 @@ Follow these steps to import a .sql database into your localhost's PHPMyAdmin:
    - Open your web browser.
    - Enter the following URL: `http://localhost/phpmyadmin` or the URL where your PHPMyAdmin is accessible.
 
-2. **Log In:**
-   - Enter your PHPMyAdmin username and password, if required, and click "Login."
+2. **Creat a New Database:**
+   - In the left-hand panel, click on the new where you can craete a new Database to import the .sql file.
+   - And Asign the Database name mvadiet it's compulsory.
 
-3. **Select Database:**
-   - In the left-hand panel, click on the database where you want to import the .sql file.
-
-4. **Import:**
+3. **Import:**
    - Click the "Import" tab from the top menu.
 
-5. **Choose File:**
-   - Click the "Choose File" button to browse and select your .sql file from your local computer.
+4. **Choose File:**
+   - Click the "Choose File" button to browse and select our mvsdiet.sql file from your local computer.
 
-6. **Start Import:**
+5. **Start Import:**
    - Click the "Go" or "Import" button.
    - PHPMyAdmin will begin importing your .sql file. This process may take a moment, depending on the file size.
 
-7. **Confirmation:**
+6. **Confirmation:**
    - Once the import is complete, you should see a success message, indicating that the database was imported successfully.
 
 Your .sql database has now been imported into PHPMyAdmin on your local environment.
