@@ -49,5 +49,6 @@ You can now connect your web application or project to this database as needed.
 
     - Go to your Browser and Type Below Link 👇
 
+
    ```bash
    http://localhost/Dieting-Website
