@@ -45,7 +45,9 @@ Your .sql database has now been imported into PHPMyAdmin on your local environme
 
 You can now connect your web application or project to this database as needed.
 
-2. **For Run The Project:** Make Sure you have Project in xampp/htdoc folder and started the Apache and MySQL in xampp or any perticuler server and then type below URL in Browser. 
+2. **For Run The Project:** Make Sure you have Project in xampp/htdoc folder and started the Apache and MySQL in xampp or any perticuler server and then type below URL in Browser.
+
+    - Go to your Browser and Type Below Link 👇
 
    ```bash
    http://localhost/Dieting-Website
